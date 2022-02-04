@@ -10,7 +10,7 @@ Documentation
     - save |-| This variable must be set as a boolean phenomenetic Value.
 
 
-![alt text](https://github.com/ethicalpunk/ssh-guard/blob/main/docmentation/images/config_docu)
+![alt text](https://github.com/ethicalpunk/deauth-detector/blob/main/docs/img_1.png)
 
 Demonstration
 =============
