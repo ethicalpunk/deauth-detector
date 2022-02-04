@@ -11,4 +11,6 @@ Config
 
 Demonstration
 =============
+**Showcase of what the command line will look like once a deauth packet has been detected.**
+
 ![alt text](https://github.com/ethicalpunk/deauth-detector/blob/main/docs/img_1.png)
